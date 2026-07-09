@@ -4,9 +4,9 @@
 
 <h1 align="center">👋 Hi, I'm Abdulbosit Qayumov</h1>
 
-<h3 align="center">
-Junior Cyber Security Specialist • Python Developer 
-</h3> 
+<h2 align="center">
+Junior Cyber Security Specialist • Python Developer    
+</h2 > 
 
 <p align="center">
 
