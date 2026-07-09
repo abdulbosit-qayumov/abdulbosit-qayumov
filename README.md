@@ -6,7 +6,7 @@
 
 <h3 align="center">
 Junior Cyber Security Specialist • Python Developer 
-</h3>
+</h3> 
 
 <p align="center">
 
