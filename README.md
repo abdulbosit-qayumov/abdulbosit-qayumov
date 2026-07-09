@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Abdulbosit Qayumov</h1>
 
 <h3 align="center">
-Junior Cyber Security Specialist • Python Developer • School 21 Uzbekistan
+Junior Cyber Security Specialist • Python Developer 
 </h3>
 
 <p align="center">
