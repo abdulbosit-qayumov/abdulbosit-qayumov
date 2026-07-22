@@ -55,17 +55,7 @@ Cyber Security • Networking • Linux • Python
 
 ## 🚀 Featured Projects
 
-### 🤖 Jarvis AI Assistant
-Personal AI assistant built with Python.
 
-Features:
-- Voice commands
-- Automation
-- Calculator
-- Reminders
-- AI integration
-
----
 
 ### 🌐 Network Scanner
 Python-based network security project.
