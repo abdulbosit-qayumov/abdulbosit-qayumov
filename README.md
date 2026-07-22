@@ -1,126 +1,118 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Junior+Cyber+Security+Specialist;Python+Developer;School+21+Uzbekistan;Always+Learning+New+Things..." />
-</p>
+<div align="center">
 
-<h1 align="center">👋 Hi, I'm Abdulbosit Qayumov</h1>
+# 👋 Hi, I'm Abdulbosit Qayumov
 
-<h2 align="center">
-Junior Cyber Security Specialist • Python Developer    
-</h2 > 
+### 🛡️ Junior Cyber Security Specialist | 🐍 Python Developer
 
-<p align="center">
+Cyber Security • Networking • Linux • Python
 
-<a href="https://github.com/abdulbosit-qayumov">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/abdulbosit-qayumov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdulbosit-qayumov-40a082390)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/ouzzzs)
 
-<a href="https://www.linkedin.com/in/abdulbosit-qayumov-40a082390">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://t.me/ouzzzs">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram">
-</a>
-
-<a href="mailto:qayumovabdulbosit800@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
+</div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 🔐 Junior Cyber Security Specialist
+- 🛡️ Junior Cyber Security Specialist
 - 🐍 Python Developer
 - 🐧 Linux & Kali Linux User
 - 🌐 Networking Fundamentals
+- 🔐 Interested in SOC Analyst & Penetration Testing
 - 🎓 School 21 Uzbekistan Student
-- 🎯 Goal: SOC Analyst / Penetration Tester
+- 📚 Currently learning Ethical Hacking
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<p>
+### Programming
+- Python
+- Bash
+- SQL
 
-<img src="https://skillicons.dev/icons?i=python"/>
+### Operating Systems
+- Linux
+- Kali Linux
+- Windows
 
-<img src="https://skillicons.dev/icons?i=linux"/>
+### Cyber Security Tools
+- Nmap
+- Wireshark
+- Burp Suite
+- Metasploit
+- OSINT Tools
 
-<img src="https://skillicons.dev/icons?i=bash"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Nmap-005F99?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-</p>
+### Development Tools
+- Git
+- GitHub
+- VS Code
+- Postman
 
 ---
 
-# 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 🔐 Cyber Security Practice Lab
+### 🤖 Jarvis AI Assistant
+Personal AI assistant built with Python.
 
-Hands-on cybersecurity labs and Linux practice.
-
----
-
-### 🐍 Python Security Automation
-
-Security automation scripts written in Python.
-
----
-
-### 🌐 Network Security Assessment
-
-Networking, scanning and enumeration projects.
+Features:
+- Voice commands
+- Automation
+- Calculator
+- Reminders
+- AI integration
 
 ---
 
-### 🎓 School 21 Projects
+### 🌐 Network Scanner
+Python-based network security project.
 
-Projects completed during School 21 Uzbekistan.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulbosit-qayumov&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbosit-qayumov&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+Learning:
+- Networking
+- IP addresses
+- Ports
+- Scanning concepts
 
 ---
 
-# 👀 Profile Views
+### 🔐 Security Tools Collection
 
-<p align="center">
+Small cybersecurity scripts:
 
-<img src="https://komarev.com/ghpvc/?username=abdulbosit-qayumov&style=for-the-badge&color=0e75b6"/>
-
-</p>
+- Password Generator
+- Caesar Cipher
+- Linux Scripts
+- Automation Tools
 
 ---
 
-<p align="center">
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulbosit-qayumov&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbosit-qayumov&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Goals
+
+- Become SOC Analyst
+- Improve Cyber Security skills
+- Learn Penetration Testing
+- Build useful security tools
+- Create AI-powered projects
+
+---
+
+## 📫 Contact
+
+- GitHub:https://github.com/abdulbosit-qayumov
+- LinkedIn:https://www.linkedin.com/in/abdulbosit-qayumov-40a082390 
+- Telegram:https://t.me/ouzzzs
+
+---
 
 ⭐ Thanks for visiting my profile!
-
-</p>
